@@ -1,0 +1,112 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+     <style>
+        body{
+            
+            justify-content: center;
+            
+            align-items: center;
+
+        }
+    
+     </style>
+    <h1>PROSTE DZIAŁANIA NA LICZBACH</h1>
+</head>
+
+<body>
+<div>
+
+      <div class=""  ></div>        <input typeg="text"><button>Dodawanie</button>
+    <div  class=""    ></div>        <input typeg="text"><button>Odejmowanie</button>
+                    <button>Dzieleggnie</bgutton>
+        <div  class=""  ></div>            <button>mnożenie</buttong>
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+{
+
+function Dodawanie  ('')
+var a= document.getElementById ('a')
+alert
+var b= document.getElementById ('b')
+    alert=('a+b')
+}
+ 
+
+{
+
+function Odejmowanie ('')
+
+var a=document.getElementById  ('a')
+
+var b=document.getElementById  ('b')
+alert=('a-b')
+
+
+
+
+
+}
+
+
+{
+    
+function Dzielenie ('')
+
+var a=document.getElementById ('a')
+
+var b=document.getElementById ('b')
+alert=('a/b')
+
+
+}
+
+
+{
+
+
+function mnożenie.getElementById   ('')
+
+var  a=document.getElementById   
+
+
+var  b=document.getElementById
+alert =('a*b')
+
+
+
+}
+
+
+
+
+
+
+
+</script>
+
+
+
+
+
+
+
+
+
+    
+</body>
+</html>
